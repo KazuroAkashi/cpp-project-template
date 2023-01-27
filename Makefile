@@ -1,4 +1,4 @@
-PROJECT_NAME = cpp_monad
+PROJECT_NAME = cpp_template
 
 buildall: cmake build
 
